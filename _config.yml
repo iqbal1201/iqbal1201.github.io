@@ -23,7 +23,7 @@ repository               : "https://iqbal1201.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Iqbal J Putra"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist Interest in Computational Sustainability"
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
