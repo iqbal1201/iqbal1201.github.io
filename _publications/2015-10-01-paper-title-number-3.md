@@ -1,11 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Routing the highway development by using SuperMap Least Cost Path Analysis (LCPA) and Multi-Criteria Decision Analysis (MCDA) and its assessment toward spatial planning"
+authors:
+  - "Muhamad Iqbal Januadi Putra*"
+  - "Nabila Dety Novia Utami"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2020-08-01
+venue: 'IOP Conference Series: Earth and Environmental Science'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
