@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher working at the intersection of AI, geospatial intelligence, environmental systems, and sustainability. 
+Hello! I am a researcher working at the intersection of AI, geospatial intelligence, computer vision,environmental systems, and sustainability. 
 
 I hold a Bachelor of Science in Geography (Geographical Information Science) from the [University of Indonesia](https://geografi.ui.ac.id/en/) and a Bachelor of Science in Computer Science from [Universitas Siber Asia](https://unsia.ac.id/), followed by a Master of Science in Geospatial Intelligence from  [The University of Queensland](https://environment.uq.edu.au/), Australia.
 

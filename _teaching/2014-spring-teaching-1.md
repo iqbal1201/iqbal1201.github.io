@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Fundamental of Geoinformation Technology"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Queensland, Master of Geographical Information Science program"
+date: 2021-02-01
+location: "Brisbane, Australia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
