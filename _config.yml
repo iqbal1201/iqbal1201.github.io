@@ -24,7 +24,7 @@ repository               : "https://iqbal1201.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Iqbal Putra"
+  name             : # "Iqbal Putra"
   pronouns         : # example: "she/her"  
   bio              : "AI for Computational Sustainability, Environment, and Conservation"
   location         : #"Jakarta, Indonesia"
