@@ -1,0 +1,38 @@
+{% comment %}
+  Renders talks grouped by the `series` front-matter field.
+  Falls back to a single group when `series` is missing.
+{% endcomment %}
+{% include base_path %}
+
+{% assign talks = site.talks | sort: "date" | reverse %}
+{% assign grouped_talks = talks | group_by: "series" %}
+
+{% for group in grouped_talks %}
+  {% assign items = group.items | sort: "date" | reverse %}
+  {% assign series_name = group.name | default: "Talks" %}
+  <section class="talk-series" id="{{ series_name | slugify }}">
+    <h3 class="talk-series__title">{{ series_name }}</h3>
+    {% if items.first.summary %}
+      <p class="talk-series__summary">{{ items.first.summary }}</p>
+    {% endif %}
+    <ul class="talk-series__list">
+      {% for talk in items %}
+        <li>
+          <span class="talk-series__date">{{ talk.date | date: "%B %Y" }}</span>:
+          {% if talk.link %}
+            <a href="{{ talk.link }}" class="talk-series__talk">{{ talk.title }}</a>
+          {% else %}
+            <span class="talk-series__talk">{{ talk.title }}</span>
+          {% endif %}
+          {% if talk.venue or talk.location %}
+            <span class="talk-series__meta">
+              {% if talk.venue %}{{ talk.venue }}{% endif %}
+              {% if talk.venue and talk.location %} — {% endif %}
+              {% if talk.location %}{{ talk.location }}{% endif %}
+            </span>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endfor %}
