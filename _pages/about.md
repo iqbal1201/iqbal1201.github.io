@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 show_head_title: false
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -15,8 +15,6 @@ I hold a double Bachelor of Science in Geography (Geographical Information Scien
 
 Research Interest
 ======
-
-My research interest is in the computational sustainability where the AI instersects with environmental, biodiversity, climate, and sustainability, such as exploring the remote sensing and GeoAI in environmental & biodiversity domain, multiagent system for urban monitoring, neural network for spatiotemporal forecasting.
 
 My research interests lie in computational sustainability, at the intersection of artificial intelligence and environmental, biodiversity, climate, and urban systems. In particular, I am interested in:
   - GeoAI and remote sensing for environmental and biodiversity monitoring
