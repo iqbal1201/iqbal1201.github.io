@@ -1,0 +1,35 @@
+<article class="publication-card">
+  {% if post.image %}
+  <div class="publication-card__media">
+    <img src="{{ post.image | prepend: '/' }}" alt="{{ post.title }}">
+  </div>
+  {% endif %}
+
+  <div class="publication-card__body">
+    <h3>{{ post.title }}</h3>
+    {% if post.authors %}
+      <p class="publication-card__authors">{{ post.authors | join: ', ' }}</p>
+    {% endif %}
+    {% if post.venue_primary %}
+      <p class="publication-card__venue"><em>{{ post.venue_primary }}</em></p>
+    {% endif %}
+    {% if post.venue_secondary %}
+      <p class="publication-card__venue"><em>{{ post.venue_secondary }}</em></p>
+    {% endif %}
+    {% if post.links %}
+      <p class="publication-card__links">
+        {% for link in post.links %}
+          <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% unless forloop.last %} / {% endunless %}
+        {% endfor %}
+      </p>
+    {% endif %}
+    {% if post.equal_contrib_note %}
+      <p class="publication-card__note">{{ post.equal_contrib_note }}</p>
+    {% endif %}
+    {% if post.summary %}
+      <p class="publication-card__summary">{{ post.summary }}</p>
+    {% else %}
+      {{ post.excerpt }}
+    {% endif %}
+  </div>
+</article>

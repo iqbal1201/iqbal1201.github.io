@@ -1,5 +1,19 @@
 ---
 title: "Comparison of Machine Learning Land Use-Land Cover Supervised Classifiers Performance on Satellite Imagery Sentinel 2 using Lazy Predict Library"
+authors:
+  - "Muhamad Iqbal Januadi Putra*"
+  - "Vincent Alexander"
+image: "images/pubs/image_ijs.png"
+links:
+  - label: "Project Page"
+    url: "https://example.com/project"
+  - label: "Paper"
+    url: "https://arxiv.org/abs/xxxx"
+  - label: "Code"
+    url: "https://github.com/.../repo"
+equal_contrib_note: "* Denotes equal contribution"
+summary: >
+  We introduce a representation learning framework…
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
