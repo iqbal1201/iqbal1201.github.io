@@ -12,9 +12,7 @@ Hello! I am a researcher working at the intersection of AI, geospatial intellige
 
 I hold a Bachelor of Science in Geography (Geographical Information Science) from the [University of Indonesia](https://geografi.ui.ac.id/en/) and a Bachelor of Science in Computer Science from [Universitas Siber Asia](https://unsia.ac.id/), followed by a Master of Science in Geospatial Intelligence from  [The University of Queensland](https://environment.uq.edu.au/), Australia.
 
-During my undergraduate studies, I received full-funded scholarship, conducted research at the Applied Geography Research Center, and was awarded the PITTA-UI research grant under the supervision of [Prof. Supriatna](https://ppsml.sil.ui.ac.id/team-members/prof-dr-drs-supriatna-m-t-2/). 
-
-I completed my master degree with fully-funded Australia Awards Scholarship (AAS), supervised by [Prof. Stuart Phinn](https://environment.uq.edu.au/profile/13550/stuart-phinn). In parallel, I worked as a Research Associate at UQ Natural Gas lab under the supervision of [Prof. Andrew Garnett](https://gas-energy.centre.uq.edu.au/about/our-people/andrewgarnett).
+During my undergraduate studies, I received full-funded scholarship, conducted research at the Applied Geography Research Center, and was awarded the PITTA-UI research grant under the supervision of [Prof. Supriatna](https://ppsml.sil.ui.ac.id/team-members/prof-dr-drs-supriatna-m-t-2/). Moreover, I completed my master degree with fully-funded Australia Awards Scholarship (AAS), supervised by [Prof. Stuart Phinn](https://environment.uq.edu.au/profile/13550/stuart-phinn). In parallel, I worked as a Research Associate at UQ Natural Gas lab under the supervision of [Prof. Andrew Garnett](https://gas-energy.centre.uq.edu.au/about/our-people/andrewgarnett).
 
 
 
@@ -42,7 +40,7 @@ Recent News
 
 
 
-Publications
+Selected Publications
 ====== 
 <section id="publications"></section>
 {% for pub in site.publications %}
