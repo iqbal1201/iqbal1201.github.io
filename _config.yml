@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Iqbal J Putra"
+title                    : "Iqbal Putra"
 title_separator          : "-"
-name                     : &name "Iqbal J Putra"
+name                     : &name "Iqbal Putra"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://iqbal1201.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,9 +26,9 @@ author:
   avatar           : "images/profile.png"
   name             : "Iqbal J Putra"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist Interest in Computational Sustainability"
-  location         : "Jakarta, Indonesia"
-  employer         : "University of Queensland"
+  bio              : "AI for Computational Sustainability, Environment, and Conservation"
+  location         : #"Jakarta, Indonesia"
+  employer         : #"University of Queensland"
   uri              : # URL
   email            : "iqbal.januadi@gmail.com" 
 
