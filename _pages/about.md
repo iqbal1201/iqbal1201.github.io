@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am working at Google Cloud Premier Partner in APAC to deliver AI (GenAI, Agentic AI, traditional AI) in various clients across APAC region. 
+Hello! I am a researcher working at the intersection of AI, geospatial intelligence, environmental systems, and sustainability. 
 
-I hold a Bachelor of Science in Geography (Geographical Information Science) from the [University of Indonesia](https://geografi.ui.ac.id/en/) and a Bachelor of Science in Computer Science from [Universitas Siber Asia](https://unsia.ac.id/), followed by a Master of Science in Geospatial Intelligence from  [The University of Queensland](https://environment.uq.edu.au/), Australia. My academic background bridges geospatial science, environmental systems, and applied AI and machine learning.
+I hold a Bachelor of Science in Geography (Geographical Information Science) from the [University of Indonesia](https://geografi.ui.ac.id/en/) and a Bachelor of Science in Computer Science from [Universitas Siber Asia](https://unsia.ac.id/), followed by a Master of Science in Geospatial Intelligence from  [The University of Queensland](https://environment.uq.edu.au/), Australia.
 
-During my undergraduate studies, I was a full scholarship recipient from the Indonesian Ministry of Education. I conducted research at the Applied Geography Research Center and was awarded the PITTA-UI research grant under the supervision of [Prof. Supriatna](https://ppsml.sil.ui.ac.id/team-members/prof-dr-drs-supriatna-m-t-2/). 
+During my undergraduate studies, I received full-funded scholarship, conducted research at the Applied Geography Research Center, and was awarded the PITTA-UI research grant under the supervision of [Prof. Supriatna](https://ppsml.sil.ui.ac.id/team-members/prof-dr-drs-supriatna-m-t-2/). 
 
-For my master’s degree, I was a full recipient of the Australia Awards Scholarship (AAS), supervised by [Prof. Stuart Phinn](https://environment.uq.edu.au/profile/13550/stuart-phinn). In parallel, I worked as a Research Associate at the UQ Centre for Natural Gas,, under the supervision of [Prof. Andrew Garnett](https://gas-energy.centre.uq.edu.au/about/our-people/andrewgarnett).
+I completed my master degree with fully-funded Australia Awards Scholarship (AAS), supervised by [Prof. Stuart Phinn](https://environment.uq.edu.au/profile/13550/stuart-phinn). In parallel, I worked as a Research Associate at UQ Natural Gas lab under the supervision of [Prof. Andrew Garnett](https://gas-energy.centre.uq.edu.au/about/our-people/andrewgarnett).
 
 
 
@@ -32,9 +32,41 @@ My long-term goal is to develop trustworthy and scalable AI methods that support
 
 
 
+
+
 Recent News
 ======
 1. October 2025 - Poster Presentation at NeurIPS 2025 Multi-modal Foundation Models and Large Language Models for Life Sciences Workshop
 2. September 2025 - Poster Presentation at ICCV 2025 Computer Vision for Ecology (CV4E) Workshop
 3. June 2025 - Poster Presentation at ICLR 2025 Climate Change AI (CCAI) Workshop
 
+
+
+Publications
+====== 
+<section id="publications"></section>
+{% for pub in site.publications %}
+### {{ pub.title }}
+- *{{ pub.venue }}*, {{ pub.date | date: "%Y" }}
+{% endfor %}
+
+
+
+Talks
+====== 
+<section id="talks"></section>
+{% for pub in site.talks %}
+### {{ pub.title }}
+- *{{ pub.venue }}*, {{ pub.date | date: "%Y" }}
+{% endfor %}
+
+
+
+
+Teaching
+====== 
+<section id="teaching"></section>
+{% for pub in site.teaching %}
+### {{ pub.title }}
+- *{{ pub.venue }}*, {{ pub.date | date: "%Y" }}
+{% endfor %}
