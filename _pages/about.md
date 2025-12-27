@@ -10,15 +10,10 @@ redirect_from:
 
 Currently, I am working at Google Cloud Premier Partner in APAC to deliver AI (GenAI, Agentic AI, traditional AI) in various clients across APAC region. 
 
-I hold a double Bachelor of Science in Geography (Geographical Information Science) from the [University of Indonesia](https://www.ui.ac.id) and a Bachelor of Computer Science from Universitas Siber Asia, followed by a Master of Science from the School of Earth and Environmental Sciences at the [University of Queensland](https://environment.uq.edu.au/), Australia. My academic background bridges geospatial science, environmental systems, and applied AI and machine learning.
+I hold a double Bachelor of Science in Geography (Geographical Information Science) from the [University of Indonesia](https://geografi.ui.ac.id/en/) and a Bachelor of Computer Science from [Universitas Siber Asia](https://unsia.ac.id/), followed by a Master of Science from the School of the Environment at the [University of Queensland](https://environment.uq.edu.au/), Australia. My academic background bridges geospatial science, environmental systems, and applied AI and machine learning.
 
-I hold a double Bachelor of Science in Geography (Geographical Information Science) and Bachelor of Science in Computer Science. I completed Bachelor of Science in Geography (Geographical Information Science)from the 
-[University of Indonesia](https://www.ui.ac.id), where I was a **full scholarship recipient from the Indonesian Ministry of Education**. During my undergraduate studies, I conducted research at the **Applied Geography Research Center (Pusat Penelitian Geografi Terapan)** and was awarded the **PITTA-UI research grant** under the supervision of [Prof. Supriatna](https://ppsml.sil.ui.ac.id/team-members/prof-dr-drs-supriatna-m-t-2/). I also hold a Bachelor of Computer Science from [Universitas Siber Asia](https://unsia.ac.id).
-
-I subsequently completed a **Master of Science** at the **School of The Environment** at the 
-[University of Queensland](https://environment.uq.edu.au/), Australia, as a **full recipient of the Australia Awards Scholarship**, under the supervision of [Prof. Stuart Phinn](https://environment.uq.edu.au/profile/13550/stuart-phinn). In parallel, I worked as a **Research Associate** at the **UQ Centre for Natural Gas**, under the supervision of [Prof. Andrew Garnett](https://gas-energy.centre.uq.edu.au/about/our-people/andrewgarnett).
-
-My academic background bridges geospatial science, environmental systems, and applied AI and machine learning.
+I was a full scholarship recipient from the Indonesian Ministry of Education during my undergraduate studies. I conducted research at the Applied Geography Research Center and was awarded the PITTA-UI research grant under the supervision of [Prof. Supriatna](https://ppsml.sil.ui.ac.id/team-members/prof-dr-drs-supriatna-m-t-2/). 
+Additionally, I was a full recipient of the Australia Awards Scholarship for my master, under the supervision of [Prof. Stuart Phinn](https://environment.uq.edu.au/profile/13550/stuart-phinn) and joined as a Research Associate at the UQ Centre for Natural Gas, under the supervision of [Prof. Andrew Garnett](https://gas-energy.centre.uq.edu.au/about/our-people/andrewgarnett).
 
 
 
